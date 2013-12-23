@@ -12,6 +12,7 @@
     <modules>
         <module>hadoop1</module>
         <module>hadoop2</module>
+        <module>HBaseTest</module>
     </modules>
 
 
